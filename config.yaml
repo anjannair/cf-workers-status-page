@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: workers-cloudflare-com # unique identifier
-    name: workers.cloudflare.com
+    name: dns.anjannair.xyz
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://dns.anjannair.xyz/' # URL to fetch
     method: GET # default=GET
