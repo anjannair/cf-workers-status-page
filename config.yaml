@@ -1,5 +1,5 @@
 settings:
-  title: 'Status Page'
+  title: 'Status Page of My Website'
   url: 'https://cf-workers-status-page-production.inshort.workers.dev/' # used for Slack messages
   logo: logo-192x192.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
